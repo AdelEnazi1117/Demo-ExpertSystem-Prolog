@@ -1,9 +1,12 @@
 # Report: Expert System for Computer Troubleshooting
 
-**Authors:** Adel Enazi - Salman Alfaify
-**Student ID:** 441008911 - 1214214
-**Course:** Ai
-**Date:** NOV 2025
+**Authors:** Adel Enazi - Salman Alfaify.
+
+**Student ID:** 441008911 - 441003788.
+
+**Course:** Ai.
+
+**Date:** NOV 2025.
 
 ---
 
